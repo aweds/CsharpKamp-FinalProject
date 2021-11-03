@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entities.Abstract
+namespace Core.Entities
 {
     // IEntity implememnt eden bir sınıf bir veritabanıdır.
     public interface IEntity
